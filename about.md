@@ -3,4 +3,10 @@ title: About
 ---
 # About page
 
-This page tells you a little bit about me.
+Heya! My name is Benjamin Nguyen. I'm a Computer Science student at the University of Texas at Dallas, but
+you also might know me from my various student media adventures.
+
+You can follow me @CardTosser on Twitter to see me tweet about random stuff.
+
+
+![profile-picture](/assets/images/profilepicture.jpg)

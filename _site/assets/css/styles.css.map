@@ -6,9 +6,9 @@
 		"_sass/main.scss"
 	],
 	"sourcesContent": [
-		"@import \"main\";",
+		"@import \"main\";\n\nheader {\n    font-family: sans-serif;\n}\n\n\nbody {\n    font-family: sans-serif;\n}\n\nh1 {\n    font-family: sans-serif;\n}\n\ndiv.twitter {\n    position: fixed;\n    right: 0;\n\n\n}",
 		".current {\r\n    color: green;\r\n  }"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,KAAK,GACb"
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,KAAK,GACb;;ADAH,AAAA,MAAM,CAAC,EACH,WAAW,EAAE,UAAU,GAC1B;;AAGD,AAAA,IAAI,CAAC,EACD,WAAW,EAAE,UAAU,GAC1B;;AAED,AAAA,EAAE,CAAC,EACC,WAAW,EAAE,UAAU,GAC1B;;AAED,AAAA,GAAG,AAAA,QAAQ,CAAC,EACR,QAAQ,EAAE,KAAK,EACf,KAAK,EAAE,CAAC,GAGX"
 }
