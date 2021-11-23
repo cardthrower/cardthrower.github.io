@@ -8,9 +8,9 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";\n@import \"deck\";\n\nheader {\n    font-family: sans-serif;\n}\n\n\nbody {\n    font-family: sans-serif;\n}\n\nh1 {\n    font-family: sans-serif;\n}\n\ndiv.twitter {\n    position: fixed;\n    right: 0;\n\n\n}\n",
-		".current {\r\n    color: green;\r\n  }",
-		"table, th, td {\r\n  border: 1px solid black;\r\n}\r\n"
+		".current {\r\n    color: #6678ff;\r\n  }\r\n.navitem {\r\n  display: inline;\r\n  border:3px solid #6678ff;\r\n  background-color: #66ffed;\r\n}\r\n",
+		"table, th, td {\r\n  border: 1px solid black;\r\n}\r\n.deckheader{\r\n  text-decoration: underline;\r\n}\r\n"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,KAAK,GACb;;ACFH,AAAA,KAAK,EAAE,EAAE,EAAE,EAAE,CAAC,EACZ,MAAM,EAAE,eAAe,GACxB;;AFCD,AAAA,MAAM,CAAC,EACH,WAAW,EAAE,UAAU,GAC1B;;AAGD,AAAA,IAAI,CAAC,EACD,WAAW,EAAE,UAAU,GAC1B;;AAED,AAAA,EAAE,CAAC,EACC,WAAW,EAAE,UAAU,GAC1B;;AAED,AAAA,GAAG,AAAA,QAAQ,CAAC,EACR,QAAQ,EAAE,KAAK,EACf,KAAK,EAAE,CAAC,GAGX"
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,OAAO,GACf;;AACH,AAAA,QAAQ,CAAC,EACP,OAAO,EAAE,MAAM,EACf,MAAM,EAAC,iBAAiB,EACxB,gBAAgB,EAAE,OAAO,GAC1B;;ACPD,AAAA,KAAK,EAAE,EAAE,EAAE,EAAE,CAAC,EACZ,MAAM,EAAE,eAAe,GACxB;;AACD,AAAA,WAAW,CAAA,EACT,eAAe,EAAE,SAAS,GAC3B;;AFFD,AAAA,MAAM,CAAC,EACH,WAAW,EAAE,UAAU,GAC1B;;AAGD,AAAA,IAAI,CAAC,EACD,WAAW,EAAE,UAAU,GAC1B;;AAED,AAAA,EAAE,CAAC,EACC,WAAW,EAAE,UAAU,GAC1B;;AAED,AAAA,GAAG,AAAA,QAAQ,CAAC,EACR,QAAQ,EAAE,KAAK,EACf,KAAK,EAAE,CAAC,GAGX"
 }

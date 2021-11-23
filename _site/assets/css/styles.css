@@ -1,6 +1,10 @@
-.current { color: green; }
+.current { color: #6678ff; }
+
+.navitem { display: inline; border: 3px solid #6678ff; background-color: #66ffed; }
 
 table, th, td { border: 1px solid black; }
+
+.deckheader { text-decoration: underline; }
 
 header { font-family: sans-serif; }
 
