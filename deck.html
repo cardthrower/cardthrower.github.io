@@ -1,0 +1,14 @@
+---
+layout: default
+title: Decks
+---
+<h1>Deck Database</h1>
+
+<ul>
+  {% for deck in site.data.decks.decks %}
+    <li>
+      <p>{{ deck.name }}</p>
+      <p>{{ deck.code }}</p>
+    </li>
+  {% endfor %}
+</ul>
