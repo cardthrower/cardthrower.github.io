@@ -2,16 +2,19 @@
 layout: default
 title: Top Decks
 ---
-<div class="deckheader"><h1>Top Deck Database</h1></div>
+<div class="deckheader"><h1> DFW Top Deck Database</h1></div>
 
-<table>
-  <tr>
+
+<input id="searchbar" onkeyup="search_deck()" type="text"
+        name="search" placeholder="Search decklists by name">
+<table id="deckTable">
+  <tr class="header">
     <th> Deck Names </th>
     <th> Deck Code </th>
     <th> Decklist Link </th>
     <th> Climax Composition </th>
   {% for deck in site.data.decks.decks %}
-    <tr>
+    <tr class="decklisting">
       <td>{{ deck.name }}</td>
       {% for link in deck.links %}
       <!-- this is the html line for getting game links -->
@@ -23,3 +26,28 @@ title: Top Decks
     </tr>
   {% endfor %}
 </table>
+
+<script>
+  function search_deck() {
+    // Declare variables
+    var input, filter, table, tr, td, i, txtValue;
+    input = document.getElementById("searchbar");
+    filter = input.value.toLowerCase();
+    table = document.getElementById("deckTable");
+    tr = table.getElementsByTagName("tr");
+
+    // Loop through all table rows, and hide those who don't match the search query
+    for (i = 0; i < tr.length; i++) {
+      td = tr[i].getElementsByTagName("td")[0];
+      if (td) {
+        txtValue = td.textContent || td.innerText;
+        if (txtValue.toLowerCase().indexOf(filter) > -1) {
+          tr[i].style.display = "";
+        } else {
+          tr[i].style.display = "none";
+        }
+      }
+    }
+  }
+
+</script>
