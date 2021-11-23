@@ -4,11 +4,22 @@ title: Decks
 ---
 <h1>Deck Database</h1>
 
-<ul>
+<table>
+  <tr>
+    <th> Deck Names </th>
+    <th> Deck Code </th>
+    <th> Decklog Link </th>
+    <th> Climax Composition </th>
   {% for deck in site.data.decks.decks %}
-    <li>
-      <p>{{ deck.name }}</p>
-      <p>{{ deck.code }}</p>
-    </li>
+    <tr>
+      <td>{{ deck.name }}</td>
+      {% for link in deck.links %}
+      <!-- this is the html line for getting game links -->
+      <td><a href={{ link.video }}> {{ link.name }} </a></td>
+      {% endfor %}
+      <td>{{ deck.code }}</td>
+      <td><a href={{ deck.decklogurl }}> Link </a></td>
+      <td>{{ deck.climaxes }}</td>
+    </tr>
   {% endfor %}
-</ul>
+</table>

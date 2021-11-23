@@ -1,5 +1,7 @@
 .current { color: green; }
 
+table, th, td { border: 1px solid black; }
+
 header { font-family: sans-serif; }
 
 body { font-family: sans-serif; }

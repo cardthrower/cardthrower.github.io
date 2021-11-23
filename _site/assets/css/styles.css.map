@@ -3,12 +3,14 @@
 	"file": "styles.css",
 	"sources": [
 		"styles.scss",
-		"_sass/main.scss"
+		"_sass/main.scss",
+		"_sass/deck.scss"
 	],
 	"sourcesContent": [
-		"@import \"main\";\n\nheader {\n    font-family: sans-serif;\n}\n\n\nbody {\n    font-family: sans-serif;\n}\n\nh1 {\n    font-family: sans-serif;\n}\n\ndiv.twitter {\n    position: fixed;\n    right: 0;\n\n\n}",
-		".current {\r\n    color: green;\r\n  }"
+		"@import \"main\";\n@import \"deck\";\n\nheader {\n    font-family: sans-serif;\n}\n\n\nbody {\n    font-family: sans-serif;\n}\n\nh1 {\n    font-family: sans-serif;\n}\n\ndiv.twitter {\n    position: fixed;\n    right: 0;\n\n\n}\n",
+		".current {\r\n    color: green;\r\n  }",
+		"table, th, td {\r\n  border: 1px solid black;\r\n}\r\n"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,KAAK,GACb;;ADAH,AAAA,MAAM,CAAC,EACH,WAAW,EAAE,UAAU,GAC1B;;AAGD,AAAA,IAAI,CAAC,EACD,WAAW,EAAE,UAAU,GAC1B;;AAED,AAAA,EAAE,CAAC,EACC,WAAW,EAAE,UAAU,GAC1B;;AAED,AAAA,GAAG,AAAA,QAAQ,CAAC,EACR,QAAQ,EAAE,KAAK,EACf,KAAK,EAAE,CAAC,GAGX"
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,KAAK,GACb;;ACFH,AAAA,KAAK,EAAE,EAAE,EAAE,EAAE,CAAC,EACZ,MAAM,EAAE,eAAe,GACxB;;AFCD,AAAA,MAAM,CAAC,EACH,WAAW,EAAE,UAAU,GAC1B;;AAGD,AAAA,IAAI,CAAC,EACD,WAAW,EAAE,UAAU,GAC1B;;AAED,AAAA,EAAE,CAAC,EACC,WAAW,EAAE,UAAU,GAC1B;;AAED,AAAA,GAAG,AAAA,QAAQ,CAAC,EACR,QAAQ,EAAE,KAAK,EACf,KAAK,EAAE,CAAC,GAGX"
 }
