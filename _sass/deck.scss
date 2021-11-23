@@ -1,5 +1,6 @@
 table, th, td {
   border: 1px solid black;
+  border-radius: 10px;
 }
 .deckheader{
   text-decoration: underline;
@@ -25,6 +26,7 @@ input[type=text]:focus {
   background-color: #f1f1f1;
 }
 
-tr {
+#deckTable td {
+  font-weight: normal;
   border-radius: 10px;
 }

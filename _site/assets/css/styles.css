@@ -2,7 +2,9 @@
 
 .navitem { display: inline; border: 2px solid black; }
 
-table, th, td { border: 1px solid black; }
+.navitem:hover { background-color: #f1f1f1; }
+
+table, th, td { border: 1px solid black; border-radius: 10px; }
 
 .deckheader { text-decoration: underline; }
 
@@ -14,7 +16,7 @@ input[type=text]:focus { width: 70%; }
 
 #deckTable tr.header, #deckTable tr:hover { /* Add a grey background color to the table header and on hover */ background-color: #f1f1f1; }
 
-tr { border-radius: 10px; }
+#deckTable td { font-weight: normal; border-radius: 10px; }
 
 header { font-family: sans-serif; }
 

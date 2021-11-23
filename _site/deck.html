@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Top Decks</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Top Decks</title>
+<meta name="generator" content="Jekyll v4.2.1" />
+<meta property="og:title" content="Top Decks" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4000/deck.html" />
+<meta property="og:url" content="http://localhost:4000/deck.html" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Top Decks" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/deck.html","@type":"WebPage","headline":"Top Decks","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+    <nav>
+    
+      <div class="navitem">
+        <a href="/" >Home</a>
+      </div>
+    
+      <div class="navitem">
+        <a href="/about.html" >About</a>
+      </div>
+    
+      <div class="navitem">
+        <a href="/blog.html" >Blog</a>
+      </div>
+    
+      <div class="navitem">
+        <a href="/staff.html" >Staff</a>
+      </div>
+    
+      <div class="navitem">
+        <a href="/deck.html" class="current">Deck Database</a>
+      </div>
+    
+  </nav>
+
+    <h1><div class="deckheader"><h1> DFW Top Deck Database</h1></div>
+
+
+<input id="searchbar" onkeyup="search_deck()" type="text"
+        name="search" placeholder="Search decklists by name">
+<table id="deckTable">
+  <tr class="header">
+    <th> Deck Names </th>
+    <th> Deck Code </th>
+    <th> Decklist Link </th>
+    <th> Climax Composition </th>
+  
+    <tr class="decklisting">
+      <td>Slime Set 2 Shizu Arch/Book deck</td>
+      
+      <td>CK2G</td>
+      <td><a href=https://decklog-en.bushiroad.com/view/CK2G?utm_campaign=DFW%20Weiss%20Weekly&utm_medium=email&utm_source=Revue%20newsletter> Link </a></td>
+      <td>4 Arch 4 Book</td>
+    </tr>
+  
+    <tr class="decklisting">
+      <td>Slime Set 2 "No combo, no problem" Arch/Book deck</td>
+      
+      <td>DFFL</td>
+      <td><a href=https://decklog-en.bushiroad.com/view/DFFL?utm_campaign=DFW%20Weiss%20Weekly&utm_medium=email&utm_source=Revue%20newsletter> Link </a></td>
+      <td>4 Arch 4 Choice</td>
+    </tr>
+  
+    <tr class="decklisting">
+      <td>Fate Heavensfeel 2 8 door Rin/Sakura deck</td>
+      
+      <td>MHNU</td>
+      <td><a href=https://decklog-en.bushiroad.com/view/MHNU> Link </a></td>
+      <td>8 Door</td>
+    </tr>
+  
+</table>
+
+<p> Gameplay videos will be added as they are available! </p>
+
+
+<script>
+  function search_deck() {
+    // Declare variables
+    var input, filter, table, tr, td, i, txtValue;
+    input = document.getElementById("searchbar");
+    filter = input.value.toLowerCase();
+    table = document.getElementById("deckTable");
+    tr = table.getElementsByTagName("tr");
+
+    // Loop through all table rows, and hide those who don't match the search query
+    for (i = 0; i < tr.length; i++) {
+      td = tr[i].getElementsByTagName("td")[0];
+      if (td) {
+        txtValue = td.textContent || td.innerText;
+        if (txtValue.toLowerCase().indexOf(filter) > -1) {
+          tr[i].style.display = "";
+        } else {
+          tr[i].style.display = "none";
+        }
+      }
+    }
+  }
+
+</script>
+</h1>
+  </body>
+</html>

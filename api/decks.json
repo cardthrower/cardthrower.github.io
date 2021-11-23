@@ -1,0 +1,14 @@
+---
+layout: none
+---
+[
+  {%- for deck in site.data.decks.decks %}
+    {
+      "name": {{- deck.name | jsonify -}},
+      "code": {{- deck.code | jsonify -}},
+      "decklogurl": {{- deck.decklogurl | jsonify -}},
+      "climaxes": {{- deck.climaxes | jsonify -}}
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor -%}
+]
