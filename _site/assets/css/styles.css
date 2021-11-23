@@ -6,8 +6,6 @@
 
 table, th, td { border: 1px solid black; border-radius: 10px; }
 
-.deckheader { text-decoration: underline; }
-
 #searchbar { margine-left: 15%; padding: 15px; border-radius: 10px; }
 
 input[type=text] { width: 30%; -webkit-transition: width 0.15s ease-in-out; transition: width 0.15s ease-in-out; }
@@ -17,6 +15,8 @@ input[type=text]:focus { width: 70%; }
 #deckTable tr.header, #deckTable tr:hover { /* Add a grey background color to the table header and on hover */ background-color: #f1f1f1; }
 
 #deckTable td { font-weight: normal; border-radius: 10px; }
+
+.json { font-weight: normal; font-size: 14px; }
 
 header { font-family: sans-serif; }
 

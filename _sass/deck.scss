@@ -2,9 +2,7 @@ table, th, td {
   border: 1px solid black;
   border-radius: 10px;
 }
-.deckheader{
-  text-decoration: underline;
-}
+
 
 #searchbar{
   margine-left:15%;
@@ -29,4 +27,8 @@ input[type=text]:focus {
 #deckTable td {
   font-weight: normal;
   border-radius: 10px;
+}
+.json {
+  font-weight: normal;
+  font-size: 14px;
 }
