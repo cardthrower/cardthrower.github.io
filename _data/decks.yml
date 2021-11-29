@@ -17,7 +17,11 @@ decks:
   code: MHNU
   decklogurl: https://decklog-en.bushiroad.com/view/MHNU
   climaxes: 8 Door
-- name: JoJo's Golden Bullets Experience shot/wind deck
-  code: P9LE
-  decklogurl: https://decklog-en.bushiroad.com/view/P9LE
-  climaxes: 4 Shot 4 Wind
+- name: Quintessential Quintuplets Quintuplets good stuff bar choice choice deck
+  code: B2YU
+  decklogurl: https://decklog-en.bushiroad.com/view/B2YU
+  climaxes: 4 Bar 2 Choice 2 Choice
+- name: Seven Deadly Sins Decen deck winning door/choice deck
+  code: 8RLW
+  decklogurl: https://decklog-en.bushiroad.com/view/8RLW
+  climaxes: 4 Door 4 Choice
