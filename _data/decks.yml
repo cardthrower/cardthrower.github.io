@@ -26,11 +26,11 @@ decks:
   decklogurl: https://decklog-en.bushiroad.com/view/8RLW
   climaxes: 4 Door 4 Choice
 - name: SAO Alicization 2 "Alice eats her vegetables" 8 wind deck
-  code: 
-  decklogurl: 
+  code:
+  decklogurl:
   climaxes: 8 Wind
 - name: Seven Deadly Sins "The Sin of Winning" 8 choice deck
-  code: 
+  code:
   decklogurl: https://www.encoredecks.com/deck/4qETBpx3I?fbclid=IwAR2ag4XdJvny9fLQv2bg_7H5D6RNS4Vqg0ljQ-nrGLNi0LkE9ec6K1Oeurs
   climaxes: 8 choice
   date: 12-06-2021
@@ -48,4 +48,24 @@ decks:
   code: CS0A
   decklogurl: https://decklog-en.bushiroad.com/view/CS0A
   climaxes: 8 choice
-  date: 12-14-2021    
+  date: 12-14-2021
+- name: Kaguyasama: Love is War "Default" Standby/Door deck
+  code: EGQ8
+  decklogurl: https://decklog-en.bushiroad.com/view/EGQ8
+  climaxes: 4 standby 4 door
+  date: 12-18-21
+- name: Kaguyasama: Love is War "Default" Standby/Door deck
+  code: EGQ8
+  decklogurl: https://decklog-en.bushiroad.com/view/EGQ8
+  climaxes: 4 standby 4 door
+  date: 12-21-21
+- name: Quintessential Quintuplets "Itsuki Waifu" 8 door deck
+  code: QEUC
+  decklogurl: https://decklog-en.bushiroad.com/view/QEUC
+  climaxes: 8 door
+  date: 12-28-21
+- name: SAO Alicization 2 "Windyduckization" 8 wind deck
+  code: H8J4
+  decklogurl: https://decklog-en.bushiroad.com/view/H8J4
+  climaxes: 8 wind
+  date: 1-1-22
