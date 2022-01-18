@@ -1,37 +1,13 @@
 #decklogurl can also be an encoredecks decklist url
 decks:
-- name: Slime Set 2 Shizu Arch/Book deck
-  code: CK2G
 #  links: This is how to implement links for any decks that have them
 #    - name: Game 1
 #      video: https://www.youtube.com/watch?v=bZAgFcFtJTM
 #    - name: Game 2
 #      video: https://www.youtube.com/watch?v=fL9ScnPepX0
-  decklogurl: https://decklog-en.bushiroad.com/view/CK2G?utm_campaign=DFW%20Weiss%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
-  climaxes: 4 Arch 4 Book
-- name: Slime Set 2 "No combo, no problem" Arch/Book deck
-  code: DFFL
-  decklogurl: https://decklog-en.bushiroad.com/view/DFFL?utm_campaign=DFW%20Weiss%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
-  climaxes: 4 Arch 4 Choice
-- name: Fate Heavensfeel 2 8 door Rin/Sakura deck
-  code: MHNU
-  decklogurl: https://decklog-en.bushiroad.com/view/MHNU
-  climaxes: 8 Door
-- name: Quintessential Quintuplets Quintuplets good stuff bar choice choice deck
-  code: B2YU
-  decklogurl: https://decklog-en.bushiroad.com/view/B2YU
-  climaxes: 4 Bar 2 Choice 2 Choice
-- name: Seven Deadly Sins Decen deck winning door/choice deck
-  code: 8RLW
-  decklogurl: https://decklog-en.bushiroad.com/view/8RLW
-  climaxes: 4 Door 4 Choice
-- name: SAO Alicization 2 "Alice eats her vegetables" 8 wind deck
-  code:
-  decklogurl:
-  climaxes: 8 Wind
 - name: Seven Deadly Sins "The Sin of Winning" 8 choice deck
-  code:
-  decklogurl: https://www.encoredecks.com/deck/4qETBpx3I?fbclid=IwAR2ag4XdJvny9fLQv2bg_7H5D6RNS4Vqg0ljQ-nrGLNi0LkE9ec6K1Oeurs
+  code: 9LVC
+  decklogurl: https://decklog-en.bushiroad.com/view/9LVC
   climaxes: 8 choice
   date: 12-06-2021
 - name: Sword Art Online Alicization 1/2 "Let's Weiss Schwarz!" Book/Bar deck
