@@ -5,7 +5,7 @@ decks:
 #      video: https://www.youtube.com/watch?v=bZAgFcFtJTM
 #    - name: Game 2
 #      video: https://www.youtube.com/watch?v=fL9ScnPepX0
-- name: Seven Deadly Sins "The Sin of Winning" 8 choice deck
+- name: Seven Deadly Sins "The Sin of Winning" Choice deck
   code: 9LVC
   decklogurl: https://decklog-en.bushiroad.com/view/9LVC
   climaxes: 8 choice
@@ -15,12 +15,12 @@ decks:
   decklogurl: https://decklog-en.bushiroad.com/view/N8W2
   climaxes: 4 book 4 bar
   date: 12-07-2021
-- name: Jojo's Bizarre Adventure Golden Wind "Standby Experience" 8 standby deck
+- name: Jojo's Bizarre Adventure Golden Wind "Standby Experience" Standby deck
   code: PUWJ
   decklogurl: https://decklog-en.bushiroad.com/view/PUWJ
   climaxes: 8 standby
   date: 12-13-2021
-- name: Date a Bullet "Date a ducke" 8 choice deck
+- name: Date a Bullet "Date a ducke" Choice deck
   code: CS0A
   decklogurl: https://decklog-en.bushiroad.com/view/CS0A
   climaxes: 8 choice
@@ -35,37 +35,37 @@ decks:
   decklogurl: https://decklog-en.bushiroad.com/view/EGQ8
   climaxes: 4 standby 4 door
   date: 12-21-21
-- name: Quintessential Quintuplets "Itsuki Waifu" 8 door deck
+- name: Quintessential Quintuplets "Itsuki Waifu" Door deck
   code: QEUC
   decklogurl: https://decklog-en.bushiroad.com/view/QEUC
   climaxes: 8 door
   date: 12-28-21
-- name: SAO Alicization 2 "Windyduckization" 8 wind deck
+- name: SAO Alicization 2 "Windyduckization" Wind deck
   code: H8J4
   decklogurl: https://decklog-en.bushiroad.com/view/H8J4
   climaxes: 8 wind
   date: 1-1-22
-- name: SAO 10th Ani "SAO Girl's Standard" 4 pants 4 choice deck
+- name: SAO 10th Ani "SAO Girl's Standard" Pants/Choice deck
   code: QC7Y
   decklogurl: https://decklog.bushiroad.com/view/QC7Y
   climaxes: 4 pants 4 choice
   date: 1-4-22
-- name: Mushoku Tensei "Mushoquack" 4 choice 4 bar deck
+- name: Mushoku Tensei "Mushoquack" Choice/Bar deck
   code: DD9W
   decklogurl: https://decklog.bushiroad.com/view/DD9W
   climaxes: 4 choice 4 bar
   date: 1-6-22
-- name: Hololive "Kevin's Hololive Project" 4 bar 4 choice deck
+- name: Hololive "Kevin's Hololive Project" Bar/Choice deck
   code: JTS2
   decklogurl: https://decklog.bushiroad.com/view/JTS2
   climaxes: 4 bar 4 choice
   date: 1-10-22
-- name: SAO 10th Ani "SAO Girl's Standard" 4 pants 4 choice deck
+- name: SAO 10th Ani "SAO Girl's Standard" Pants/Choice deck
   code: QC7Y
   decklogurl: https://decklog.bushiroad.com/view/QC7Y
   climaxes: 4 pants 4 choice
   date: 1-11-22
-- name: Konosuba "Wiz's Clap of Thunder" 8 stock soul deck
+- name: Konosuba "Wiz's Clap of Thunder" Stock Soul deck
   code: MAB8
   decklogurl: https://decklog.bushiroad.com/view/MAB8
   climaxes: 8 stock soul
@@ -75,3 +75,8 @@ decks:
   decklogurl: https://decklog-en.bushiroad.com/view/EGQ8
   climaxes: 4 standby 4 door
   date: 1-15-21
+- name: Slime "Snipe" Standby/Stock Soul deck
+  code: AJMQ
+  decklogurl: https://decklog-en.bushiroad.com/view/AJMQ
+  climaxes: 4 standby 4 stock soul
+  date: 1-17-21
