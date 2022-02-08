@@ -100,8 +100,13 @@ decks:
   decklogurl: https://decklog.bushiroad.com/view/DBTW
   climaxes: 4 pants 4 choice
   date: 1-31-22
-- name: RWBY "Twin's Deceit" Pants/Standby/Standby deck
-  code: CE2S
-  decklogurl: https://decklog-en.bushiroad.com/view/CE2S
+- name: RWBY "No Preference" Pants/Standby/Standby deck
+  code: GLRJ
+  decklogurl: https://decklog-en.bushiroad.com/view/GLRJ
   climaxes: 3 pants 2 standby 3 standby
   date: 2-5-22
+- name: Bang Dream "It's a Secret to everyone" Pants/Book deck
+  code:
+  decklogurl:
+  climaxes: 4 Pants 4 Book
+  date: 2-7-22
