@@ -121,14 +121,42 @@
     {
       "name":"Bang Dream \"It's a Secret to everyone\" Pants/Book deck",
       "code":null,
-      "decklogurl":null,
+      "decklogurl":"https://www.thisworldthesedays.com/bang-dream-decklist1.html",
       "climaxes":"4 Pants 4 Book"}
     ,
   
     {
-      "name":"Slime \"Shizuduckv1\" Pants/Standby deck",
-      "code":"NG0W",
-      "decklogurl":"https://decklog-en.bushiroad.com/view/NG0W",
-      "climaxes":"4 pants 4 standby"}
+      "name":"Hololive \"Bunny Dragon\" Pants/Choice deck",
+      "code":"DBTW",
+      "decklogurl":"https://decklog.bushiroad.com/view/DBTW",
+      "climaxes":"4 pants 4 choice"}
+    ,
+  
+    {
+      "name":"RWBY \"No Preference\" Pants/Standby/Standby deck",
+      "code":"GLRJ",
+      "decklogurl":"https://decklog-en.bushiroad.com/view/GLRJ",
+      "climaxes":"3 pants 2 standby 3 standby"}
+    ,
+  
+    {
+      "name":"Bang Dream \"It's a Secret to everyone\" Pants/Book deck",
+      "code":null,
+      "decklogurl":"https://www.thisworldthesedays.com/bang-dream-decklist1.html",
+      "climaxes":"4 Pants 4 Book"}
+    ,
+  
+    {
+      "name":"RWBY \"No Preference\" Pants/Standby/Standby deck",
+      "code":"GLRJ",
+      "decklogurl":"https://decklog-en.bushiroad.com/view/GLRJ",
+      "climaxes":"3 pants 2 standby 3 standby"}
+    ,
+  
+    {
+      "name":"Fate \"Saber endgame\" Door deck",
+      "code":"8Q9A",
+      "decklogurl":"https://decklog-en.bushiroad.com/view/8Q9A",
+      "climaxes":"8 door"}
     
   ]
