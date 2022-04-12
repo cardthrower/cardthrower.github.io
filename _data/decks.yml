@@ -110,3 +110,18 @@ decks:
   decklogurl:
   climaxes: 4 Pants 4 Book
   date: 2-7-22
+- name: Slime 2 "Billy" 8 Standby deck
+  code: FT5Q
+  decklogurl: https://decklog-en.bushiroad.com/view/FT5Q
+  climaxes: 8 standby
+  date: 3-28-22
+- name: Puyo-Puyo "Japanese Tetris" Pants/2 Soul/Wind deck
+  code: RVC1
+  decklogurl: https://decklog.bushiroad.com/view/RVC1
+  climaxes: 4 Pants 2 2 Soul 2 Wind
+  date: 3-31-22
+- name: Bang Dream "Can't Count Cards" Choice/Pants deck
+  code: 5A0N
+  decklogurl: https://decklog.bushiroad.com/view/RVC1
+  climaxes: 4 Choice 4 Pants
+  date: 4-5-22
