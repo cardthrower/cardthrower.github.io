@@ -155,9 +155,9 @@ decks:
   decklogurl:
   climaxes: 4 Choice 4 Pants
   date: 2022-05-21
-- name: Seven Deadly Sins "Deck that won" Door/Choice deck
-  code:
-  decklogurl:
+- name: Seven Deadly Sins "Dfw 7DS test1" Door/Choice deck
+  code: https://decklog-en.bushiroad.com/view/7YEC
+  decklogurl: 7YEC
   climaxes: 4 Door 4 Choice
   date: 2022-05-22
 - name: Mushoku Tensei "Poor tensei v5" Standby/Pants deck
@@ -169,4 +169,4 @@ decks:
   code: GJ2R
   decklogurl: https://decklog-en.bushiroad.com/view/GJ2R
   climaxes: 8 Standby
-  date: 2022-05-24  
+  date: 2022-05-24
