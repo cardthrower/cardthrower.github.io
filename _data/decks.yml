@@ -140,3 +140,33 @@ decks:
   decklogurl: https://decklog.bushiroad.com/view/RVC1
   climaxes: 4 Choice 4 Pants
   date: 2022-04-05
+- name: RWBY "Rwby Tested 5/17" Door/Choice deck
+  code: HR7D
+  decklogurl: https://decklog-en.bushiroad.com/view/HR7D
+  climaxes: 4 Door 4 Choice
+  date: 2022-05-17
+- name: Bofuri "2 soul stock soul" 2Soul/Stock Soul deck
+  code: 62GR
+  decklogurl: https://decklog-en.bushiroad.com/view/62GR
+  climaxes: 4 Two Soul 4 Stock Soul
+  date: 2022-05-19
+- name: Bang Dream "It's a different secret to everyone" Choice/Pants deck
+  code:
+  decklogurl:
+  climaxes: 4 Choice 4 Pants
+  date: 2022-05-21
+- name: Seven Deadly Sins "Deck that won" Door/Choice deck
+  code:
+  decklogurl:
+  climaxes: 4 Door 4 Choice
+  date: 2022-05-22
+- name: Mushoku Tensei "Poor tensei v5" Standby/Pants deck
+  code: LU51
+  decklogurl: https://decklog-en.bushiroad.com/view/LU51
+  climaxes: 4 Standby 4 Pants
+  date: 2022-05-23
+- name: Mushoku Tensei "Mushoku 8 Standby" Standby deck
+  code: GJ2R
+  decklogurl: https://decklog-en.bushiroad.com/view/GJ2R
+  climaxes: 8 Standby
+  date: 2022-05-24  
