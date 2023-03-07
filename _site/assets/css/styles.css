@@ -22,7 +22,7 @@ input[type=text]:focus { width: 70%; }
 
 header { font-family: sans-serif; }
 
-body { font-family: sans-serif; }
+body { font-family: sans-serif; margin-left: 20%; margin-right: 20%; }
 
 h1 { font-family: sans-serif; }
 
