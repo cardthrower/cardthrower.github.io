@@ -6,7 +6,12 @@
   border:2px solid black;
   padding: 5px 5px 5px 5px;
   margin-right: 10px;
+  border-radius: 4px;
+  background-color: #45a2d0;
 }
-.navitem:hover {
-  background-color: #f1f1f1;
+.nav-link:visited {
+  color: white;
+}
+.nav-link:link {
+  color: white;
 }
