@@ -4,10 +4,10 @@ title: About
 ---
 # About page
 
-Heya! My name is Benjamin Nguyen. I'm a Computer Science student at the University of Texas at Dallas, but
-you also might know me from my various student media adventures.
+Heya! My name is Benjamin Nguyen. I'm a developer at Varis, but you might know me from my previous work at UTD's Student Media.
 
-You can follow me @CardTosser on Twitter to see me tweet about random stuff.
+
+You can follow me @jazzy_reporter on Twitter to see me tweet about random stuff.
 
 Devpost: https://devpost.com/cardthrower
 
