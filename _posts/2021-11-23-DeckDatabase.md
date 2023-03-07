@@ -1,6 +1,6 @@
 ---
 layout: post
-author: ben
+title: Deck Database
 ---
 I made a DFW Top Deck Database for the latest top decks!
 

@@ -1,5 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-07T14:03:27-06:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Deckdatabase</title><link href="http://localhost:4000/2021/11/23/DeckDatabase.html" rel="alternate" type="text/html" title="Deckdatabase" /><published>2021-11-23T00:00:00-06:00</published><updated>2021-11-23T00:00:00-06:00</updated><id>http://localhost:4000/2021/11/23/DeckDatabase</id><content type="html" xml:base="http://localhost:4000/2021/11/23/DeckDatabase.html">&lt;p&gt;I made a DFW Top Deck Database for the latest top decks!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-07T15:06:35-06:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Previous Coffee Shop Reviews</title><link href="http://localhost:4000/2022/03/07/PreviousReviews.html" rel="alternate" type="text/html" title="Previous Coffee Shop Reviews" /><published>2022-03-07T00:00:00-06:00</published><updated>2022-03-07T00:00:00-06:00</updated><id>http://localhost:4000/2022/03/07/PreviousReviews</id><content type="html" xml:base="http://localhost:4000/2022/03/07/PreviousReviews.html">&lt;p&gt;I previously wrote a great deal of things for the UTD Mercury, but for easy reading this is a collection of reviews I did for
+“The Fix”, a coffee shop review column that I’ll be continuing under the name “Practical Caffeine Spots” because:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;The Mercury owns the rights to “The Fix” and&lt;/li&gt;
+  &lt;li&gt;Someone else is continuing that particular column there and&lt;/li&gt;
+  &lt;li&gt;I don’t particularly care about having a catchy title for a personal writing project.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;You can check it out in the navbar above.&lt;/p&gt;</content><author><name>ben</name></author><summary type="html">I made a DFW Top Deck Database for the latest top decks!</summary></entry><entry><title type="html">Test</title><link href="http://localhost:4000/2020/07/06/test.html" rel="alternate" type="text/html" title="Test" /><published>2020-07-06T00:00:00-05:00</published><updated>2020-07-06T00:00:00-05:00</updated><id>http://localhost:4000/2020/07/06/test</id><content type="html" xml:base="http://localhost:4000/2020/07/06/test.html">&lt;p&gt;This is a test blog post! hopefully this works.&lt;/p&gt;
+&lt;p&gt;I liked writing reviews in that particular style, so I’ll keep doing it for fun.&lt;/p&gt;
 
-&lt;p&gt;In the future there may be more blog posts.&lt;/p&gt;</content><author><name>ben</name></author><summary type="html">This is a test blog post! hopefully this works.</summary></entry></feed>
+&lt;p&gt;In case you’d like to read my previous work, it’s linked below:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;https://utdmercury.com/the-fix-mojos-java-saves-richardson-residents-from-chain-drink-doldrums/&lt;/li&gt;
+  &lt;li&gt;https://utdmercury.com/bennys-bagel/&lt;/li&gt;
+  &lt;li&gt;https://utdmercury.com/bagel-cafe-21-offers-great-breakfast/&lt;/li&gt;
+  &lt;li&gt;https://utdmercury.com/eiland-at-canyon-creek/&lt;/li&gt;
+  &lt;li&gt;https://utdmercury.com/dutch-bros-coffee/&lt;/li&gt;
+  &lt;li&gt;https://utdmercury.com/dunn-brothers-coffee/&lt;/li&gt;
+  &lt;li&gt;https://utdmercury.com/mudleaf-coffee/&lt;/li&gt;
+  &lt;li&gt;https://utdmercury.com/communion-coffee/&lt;/li&gt;
+  &lt;li&gt;https://utdmercury.com/the-1418-coffeehouse/&lt;/li&gt;
+  &lt;li&gt;https://utdmercury.com/i-love-u-a-latte/ (This place was unfortunately closed after an axe attack )&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">I previously wrote a great deal of things for the UTD Mercury, but for easy reading this is a collection of reviews I did for “The Fix”, a coffee shop review column that I’ll be continuing under the name “Practical Caffeine Spots” because: The Mercury owns the rights to “The Fix” and Someone else is continuing that particular column there and I don’t particularly care about having a catchy title for a personal writing project.</summary></entry><entry><title type="html">Deck Database</title><link href="http://localhost:4000/2021/11/23/DeckDatabase.html" rel="alternate" type="text/html" title="Deck Database" /><published>2021-11-23T00:00:00-06:00</published><updated>2021-11-23T00:00:00-06:00</updated><id>http://localhost:4000/2021/11/23/DeckDatabase</id><content type="html" xml:base="http://localhost:4000/2021/11/23/DeckDatabase.html">&lt;p&gt;I made a DFW Top Deck Database for the latest top decks!&lt;/p&gt;
+
+&lt;p&gt;You can check it out in the navbar above.&lt;/p&gt;</content><author><name></name></author><summary type="html">I made a DFW Top Deck Database for the latest top decks!</summary></entry></feed>
